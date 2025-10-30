@@ -1,0 +1,6 @@
+---
+banner: z_Recursos/banners/mansion_raven.gif
+---
+El bosque de la mansión, llamado en la ciudad Bosque de las Ánimas, es tan extenso que en él podría caber un barrio entero de Raven. Sus árboles son centenarios y algunos se alzan mu￾cho más arriba que el más alto de los edificios de la mansión. 
+Cuanto más se aleja de ella, más espeso se vuelve. Hay varios caminos que lo cruzan, algunos más usados y otros olvidados hace tiempo. No se sabe todo lo que esconden las profundidades del bosque. Se ha recorrido muchas veces, pero al igual que con la mansión, todos sus secretos están lejos de ser desvelados. Se dice que hay estanques, alguna gruta, ruinas, quizá algún túnel de nie￾bla, espectros… Se sabe que hay al menos un viejo cementerio en su interior, uno eternamente rodeado de niebla al cual está prohibido acceder. 
+Los cuervos abundan, y aunque no estén a la vista sus graz￾nidos se escuchan desde la mansión. Por las noches, la niebla es densa entre los troncos de los árboles, y los cuervos y las ánimas lo recorren en una procesión que nadie contempla. Durante el día, hay zonas donde la niebla persiste e incluso se vuelve densa e impenetrable. Por ese motivo, recorrerlo es peligroso incluso con luz si se pierde la senda.
