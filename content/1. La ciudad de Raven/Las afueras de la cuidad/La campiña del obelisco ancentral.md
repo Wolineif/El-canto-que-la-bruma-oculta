@@ -1,0 +1,36 @@
+---
+banner: z_Recursos/banners/luna_creciente.gif
+---
+# descripción
+
+Esta zona no alberga solo un viejo monumento, sino toda una campiña de lujo. Al sur de Raven, donde la península conecta con el continente, se extiende un área residencial y periférica habitada en periodos estivales por algunos miembros de la aris￾tocracia más exquisita y la más alta burguesía. Aquí se alzan grandes casas de campo con amplias extensiones de terreno, lugares en los que las grandes fortunas de Raven se refugian en   determinados periodos para escapar del gentío y las presiones sociales. Pero aunque quieran engañarse, la campiña es un lu￾gar más peligroso que la propia ciudad. Fuera de la península, 
+la protección de la Orden no es efectiva y la niebla es más im￾placable. A veces esta permanece días y noches enteras, dejando aisladas las casas en un inmenso mar blanco hasta que se dilu￾ye. Por eso son pocas las personas con osadía como para haber construido aquí una segunda residencia. 
+También se creó aquí hace unas décadas el Balneario de la Paz de Espíritu. Construido por el Gremio, es muy popular entre la aristocracia por la calma que ofrece y las hermosas vis￾tas. Desde todas sus habitaciones se contempla el obelisco. En su interior hay unas grandes piscinas de agua caliente, templada y fría en unas salas abovedadas de varios metros de altura, so￾lemnes, llenas de ecos. Las aguas provienen del subsuelo y las 
+piscinas ya existían en la era de la Logia, o quizá antes. Se ofrecen tratamientos con masajes y gimnasia. Las personas más valientes se sumergen en la sala de vapor, un tratamiento para desasociar cualquier humo del temor que despierta la niebla.
+La campiña no solo es una zona de asueto. Lo primero que se construyó aquí hace casi dos siglos fue un enorme edificio muy necesario: el Sanatorio para Almas Rotas y Frágiles, donde se cuida a las personas con las mentes destrozadas por la niebla, los espectros o el Otro Lado. Edificado junto al obelisco, está gestionado directamente por la Orden. Las magas y magos in￾tentan recomponer o recuperar sus almas, y las médicas y médi￾cos intentan curar sus mentes o hacer que olviden mediante un compasivo mesmerismo. Hay tres alas: una para la aristocracia, otra para la burguesía y otra para la clase obrera. Los gastos de la estancia de esta última están sufragados por la familia Tamer￾lane, principal mecenas de la institución. Fue esa familia quien promovió su construcción, pues nadie conoce mejor los daños terribles del Otro Lado. Se alzó junto al obelisco porque ya en 
+la era de la Logia su cercanía se usaba para curar las obsesiones con el Otro Lado. La Orden ha estudiado el motivo durante dé￾cadas pero no ha logrado obtener explicaciones razonables.
+El viejo obelisco, en el centro de esta campiña, es de obsidiana negra de treinta metros de altura y más antiguo que la ciudad. Construido por la civilización ancestral, se ignora todo de él. Tenía inscripciones, pero, como todo lo ancestral de Raven, fueron borradas a golpe de cincel y reemplazados por sellos de la Logia. Hay quien dice que marca el lugar de un cementerio ances￾tral, pero jamás se ha encontrado una tumba de esa cultura aquí 
+o en ninguna parte de Raven. Es un lugar que toda gente evita pues transmite una sensación constante de muerte. El aire es frío y húmedo a su alrededor y está rodeado de altos y viejos cipreses. Cuando hay niebla, esta es más densa en torno al obelisco. En lo alto siempre hay cuervos.
+
+# Apariencia
+
+ Es un lugar de prados verdes y hermosos árboles, entre los que abundan los cipreses, como en el Bosque de Ruinas. Las mansiones son más bajas que en la ciudad, de una planta en su mayoría, con amplios terrenos, jardines y caballerizas. El sanatorio es un viejo edificio de fachada simple pintado de rojo con el emblema de la Orden en su portón. Es muy grande y tiene seis plantas. Está rodeado por un gran muro de varios metros de altura cuyo objetivo no es evitar que se escapen sus pacientes, sino impedir que la niebla los vuelva a alcanzar. 
+ El balneario abunda en decoraciones de plata y grandes ventanales en su frente dirigidos al obelisco y al bosquee lejano. La parte posterior da a la ciudad, pero allí las ventanas son pequeñas para no recordar el lugar al que deben volver o del que huyen. Está rodeado también de un alto muro para frenar la niebla. El obelisco es de piedra negra desgastada por los siglos, pero tan sólido que podría aguantar milenios. Se divisa desde 
+cualquier punto de la campiña, incluso cuando hay niebla. Más allá de la última mansión se extiende el interior del Continente Perdido. Allí desaparecen los caminos y la niebla es perenne en muchas zonas. 
+
+# Costumbres
+
+ Las gentes adineradas que tienen aquí mansiones vienen en distintos momentos del año, coincidiendo con fes￾tividades, el verano o situaciones personales que requieren aisla￾miento. Sus terrenos son grandes. Cuando vienen, saben que la niebla aislará el lugar días o semanas. Algunas buscan justo esa soledad para aliviar problemas angustiosos. Aunque a todas les gusta contemplar el obelisco desde sus mansiones, nadie se acer￾ca nunca por la sensación de inquietud que transmite. También por el sanatorio, un lugar en el que temen terminar un día.
+
+# Sitios destacados
+
+El obelisco, el sanatorio, el balneario, la última mansión que divisa la niebla eterna del Continente Perdi￾do, el camino que lleva a Raven y que queda oculto por la niebla muchos días al año.
+
+# Un misterio
+
+A veces, cuando una mansión queda aislada muchos días por la niebla, tras despejarse no hay nadie en su interior. Ha ocurrido pocas veces, pero son historias muy recor￾dadas. Siempre eran personas solas.
+
+# Una maldición o un peligro
+
+El obelisco ayuda a aliviar la obsesión con el Otro Lado y los espectros, pero a la vez genera una nueva obsesión con él. Muchas personas que estuvieron in￾gresadas aquí vuelven cada cierto tiempo, incapaces de vivir sin 
+verlo al levantarse por las mañanas. Algunas se quedan largas es￾tancias en el balneario. Se han alzado voces del Gremio e incluso la propia Orden que reclaman cerrar el sanatorio por esto, pero sus beneficios están por encima de sus riesgos.
