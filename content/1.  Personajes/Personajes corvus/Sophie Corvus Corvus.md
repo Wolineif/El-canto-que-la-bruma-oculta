@@ -5,7 +5,7 @@ Relación con:
   - "[[Emily Thomson]]"
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
-  - "[[Antoniette Williams Blanc Vigilante]]"
+  - "[[Antoniette Williams Blanc La Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Yamiel]]"
