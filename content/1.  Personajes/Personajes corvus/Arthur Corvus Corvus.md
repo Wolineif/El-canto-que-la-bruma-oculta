@@ -6,7 +6,7 @@ Relación con:
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
   - "[[Mérida Nowak Sikora La Cisne]]"
-  - "[[Antoniette Williams Blanc Vigilante]]"
+  - "[[Antoniette Williams Blanc La Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Akeldamá]]"

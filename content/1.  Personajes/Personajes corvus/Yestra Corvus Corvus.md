@@ -4,7 +4,7 @@ Last edited time: 2025-10-12T23:11
 Relación con:
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
-  - "[[Antoniette Williams Blanc Vigilante]]"
+  - "[[Antoniette Williams Blanc La Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Majek]]"
