@@ -14,13 +14,14 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Edad aparente:
     
-    10
+    27
     
 - Rasgos:
     
-    Ojos hielo, esbelto, alto, siempre arreglado, con pelo negro con un mechón canoso.
+    Ojos hielo, esbelto, alto, siempre arreglado, con pelo negro.
     
 - Imagen:
+	![[Caelum Alexander Corvus.png|200]]
 
   
 
@@ -28,7 +29,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Una bendición para los Corvus, con una bendición para la magia, Caelum Alexander puede escribir todo lo que ocurre a su alrededor con su sangre si también ofrece un sacrificio acorde, servicial y caballeroso, Caelum, a pesar de tener comportamientos de niño, a veces parece ser más sensato que los propios adultos, ganandose rápidamente el respeto y el honor del apellido de los Corvus.
+    Una bendición para los Corvus, con una bendición para la magia, Caelum Alexander puede escribir todo lo que ocurre a su alrededor con su sangre si también ofrece un sacrificio acorde, servicial y caballeroso, Caelum, a pesar de tener comportamientos de niño/adolescente de su edad (en el primer tramo de la historia donde tendrá 13),parece ser más sensato que los propios adultos, ganándose rápidamente el respeto y el honor del apellido de los Corvus, eso no está bien visto por las familias rivales a la vuestra, que busca el exterminio de vuestro linaje, como en el pasado, también a su corta edad es el actual representante Corvus en la orden, a pesar de que por el momento, sigue recibiendo ayuda de su padre para los temas que no permiten tener a un menor de edad al cargo. 
     
 - Parentesco.
     
@@ -40,6 +41,6 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Tramas Personales.
     
-    La fantasma de mis historias.
+    La ánima de mis historias sobre la niebla.
     
 - Otros datos.

@@ -17,9 +17,10 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Rasgos:
     
-    Mujer gruesa de huesos anchos y con bastante músculo.
+    Mujer gruesa de huesos anchos, especialmente atractiva.
     
 - Imagen:
+	![[Antoniette Williams.png|200]]
 
   
 
@@ -27,7 +28,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Líder de la orden, siempre está presente en los rituales de iniciación de los Corvus, vestida de monja pero con el poder de un cardenal, elegida por dios para controlar la blasfemia de una sangre maldita
+    Líder de la orden, siempre está presente en los rituales de iniciación de los Corvus, vestida de monja dentro de la orden, pero fuera viste a su manera, elegida por el resto de familias controlar la blasfemia de una sangre maldita o su verdad (de pende de a que familia se le pregunte).
     
 - Parentesco.
     
@@ -35,7 +36,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Objetos.
     
-    Vestimentas religiosas, siempre con máscara ceremonial y su bendición hace que los de sangre maldita no pudieran tener clara su voz, crucifijo, agua bendita, herramientas de exorcismo
+    Vestimentas religiosas o ropa de comercio, crucifijo, agua bendita, herramientas de exorcismo
     
 - Tramas Personales.
     

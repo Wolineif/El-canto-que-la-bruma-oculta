@@ -13,10 +13,10 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Rasgos:
     
-    Una anciana de pelo canoso y siempre uniformada de sirvienta, incluso en su tiempo libre
+    Una mujer de pelo Rubio y siempre uniformada de sirvienta, incluso en su tiempo libre.
     
 - Imagen:
-
+	![[Mary Nielsen.png|200]]
   
 
 ## Datos interesantes.
@@ -27,11 +27,13 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Parentesco.
     
-    Ninguno
+    Ayudante de cámara de [[Hestia Corvus Corvus]] y [[Sebastian Corvus Corvus]]
     
 - Objetos.
     
     Llaves de la casa.
     
 - Tramas Personales.
+	
 - Otros datos.
+	

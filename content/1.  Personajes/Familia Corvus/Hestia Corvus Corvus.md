@@ -13,21 +13,21 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Edad aparente:
     
-    25
+    40
     
 - Rasgos:
     
     Mujer joven de pelo oscuro y ojos azules
     
 - Imagen:
-
+	![[Hestia Corvus Corvus.png|200]]
   
 
 ## Datos interesantes.
 
 - Preludio.
     
-    Investigadora obsesionada que habla con los espiritus y busca mantener el linaje
+    Demente culpable que habla con los espíritus y busca mantener el linaje
     
 - Parentesco.
     

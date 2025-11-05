@@ -17,10 +17,10 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Rasgos:
     
-    Una joven mujer de pelo clanquezino, ojos rosados y rasgos alvinos.
+    Una joven mujer de pelo blanquezino, ojos rosados y rasgos albinos.
     
 - Imagen:
-
+	![[Emily Thomson.png|200]]
   
 
 ## Datos interesantes.
@@ -29,7 +29,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Una mujer nacida con Albinismo, por ello de mala salud, su falta de melanina hace que enferme o se queme muy rápido por el Sol, aún así ella no se rinde, por ello bajo el resguardo de la mansión Corvus sirve con mucho gusto a Sophie ya que es su señora pero en el fondo también su amiga y quien ahora mismo le ayuda a poder vivir.
+    Una mujer nacida con Albinismo, por ello de mala salud, su falta de melanina hace que enferme o se queme muy rápido por el Sol, aún así ella no se rinde, por ello bajo el resguardo de la [[Mansión Corvus]] sirve con mucho gusto a [[Sophie Corvus Corvus]] ya que es su señora, pero en el fondo también su amiga y quien ahora mismo le ayuda a poder vivir, es la única de las sirvientas que tiene un trato más cercano con su señora y mira a los señores con una sonrisa que siempre alegra el día, al contrario de la seriedad de sus compañeros sirvientes.
     
 - Parentesco.
     
@@ -44,3 +44,6 @@ banner: z_Recursos/banners/pureza_maldita.gif
     Cura para la vista de sangre
     
 - Otros datos.
+	
+	Además de su dificultad para la luz y tener una vista bastante sensible a la luz también confunde colores (Dicromatismo tipo Protanopia) no reconoce el rojo, pudiendo verse a veces como Beis o Gris, a veces con todo verdosos o incluso amarillo si el color es muy intenso, para ella el "rojo" y el "verde" son le mismo color.
+	

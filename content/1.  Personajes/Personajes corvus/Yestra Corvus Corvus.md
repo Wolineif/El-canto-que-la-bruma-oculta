@@ -4,11 +4,11 @@ Last edited time: 2025-10-12T23:11
 Relación con:
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
-  - "[[Antoniette Williams Blanc “Vigilante”]]"
+  - "[[Antoniette Williams Blanc Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Majek]]"
-  - "[[Mérida Nowak Sikora ‘’’Cisne’]]"
+  - "[[Mérida Nowak Sikora La Cisne]]"
   - "[[Niestra Meyer]]"
   - "[[Familia Corvus]]"
   - "[[Personajes corvus]]"
@@ -19,11 +19,15 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 ---
 
 - Edad aparente:
+	
 	5
+	
 - Rasgos:
+	
 	Chiquillo de pelo negro azabache, ojos azul hielo, liante por donde los haya, el más rebelde de todos los hermanos
+	
 - Imagen:
-
+	![[Yestra Corvus Corvus.png|200]]
   
 
 ## Datos interesantes.

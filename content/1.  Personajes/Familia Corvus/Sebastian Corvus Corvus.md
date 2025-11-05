@@ -14,13 +14,14 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Edad aparente:
     
-    8
+    60
     
 - Rasgos:
     
-    Chiquillo pequeño de ojos azul hielo.
+    Señor de ojos azul hielo y pelo canoso.
     
 - Imagen:
+	![[Sebastian Corvus Corvus.png|200]]
 
   
 
@@ -28,19 +29,21 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Temeroso y bastante asustadizo, lo cual, le impide usar su poder incluso en situaciones extremas, por ello sus padres están frustrados con él, al contrario que sus hermanos, Robin es el único que no ha despertado como Corvus, él prefiere siempre el uso de armas y defensa física, por ello, con la esperanza de que así obtenga el valor para usar sus poderes, lo entrenan como un combatiente y espadachín para que obtenga la confianza para poder usar sus poderes.
+    El actual lord Corvus y repesentante de la familia en la orden, viendo lo capaz que es su hijo, se ocupa de que aprenda todo lo necesario para que pueda cargar con la responsabilidad de la [[Mansión Corvus]]
     
 - Parentesco.
     
-    Padre [[Sebastian Corvus Corvus]]
+    Hermano de [[Arthur Corvus Corvus]]
     
-    Madre [[Hestia Corvus Corvus]]
+    Esposo de [[Hestia Corvus Corvus]]
     
-    Hermanos [[Sophie Corvus Corvus]], [[Yestra Corvus Corvus]] y [[Caelum Alexander Corvus]]
+    Hijos [[Sophie Corvus Corvus]], [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]] y [[Caelum Alexander Corvus]]
     
 - Objetos.
     
-    Siempre lleva consigo una daga para sentirse seguro.
+    Siempre lleva consigo un reloj.
     
 - Tramas Personales.
+	El linaje debe perdurar.
 - Otros datos.
+	cuando está pensativo, suele acariciarse la barbilla.

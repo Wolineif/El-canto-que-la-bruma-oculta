@@ -18,30 +18,30 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Rasgos:
     
-    Mujer joven de pelo oscuro y ojos azules
+    Mujer de pelo canoso, apariencia joven, siempre tapa sus ojos con un velo
     
 - Imagen:
-
+	![[Akeldamá.png|200]]
   
 
 ## Datos interesantes.
 
 - Preludio.
     
-    Investigadora obsesionada que habla con los espiritus y busca mantener el linaje
+    Patrona de la brujería de sangre y la vida, suele ayudar sin pedir nada a cambio a quien investigue la vida y la magia.
     
 - Parentesco.
     
-    Madre de [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]], [[Sophie Corvus Corvus]] y [[Caelum Alexander Corvus]]
+    Hermana de [[Majek]] y [[Yamiel]].
     
 - Objetos.
     
-    Herramientas de invetigadora, pluma y papel
+    
     
 - Tramas Personales.
     
-    El linaje debe perdurar
+    
     
 - Otros datos.
     
-    Siempre impecable y dulce cara el público aún que su ira es temida por todos los hermanos, más que la de vuestro padre, que es bastante.
+    

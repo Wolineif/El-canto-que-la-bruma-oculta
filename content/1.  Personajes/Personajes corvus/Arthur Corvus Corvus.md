@@ -5,8 +5,8 @@ Relación con:
   - "[[Amelín Gerserver]]"
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
-  - "[[Mérida Nowak Sikora ‘’’Cisne’]]"
-  - "[[Antoniette Williams Blanc “Vigilante”]]"
+  - "[[Mérida Nowak Sikora La Cisne]]"
+  - "[[Antoniette Williams Blanc Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Akeldamá]]"
@@ -21,9 +21,9 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 - Edad aparente:  
 	27
 - Rasgos:
-	 Adulto de  expresión cansada, ojos azul claro y pelo castaño claro.
+	 Adulto, ojos azul claro y pelo negro.
 - Imagen:
-
+	![[Arthur Corvus Corvus.png|200]]
   
 
 ## Datos interesantes.

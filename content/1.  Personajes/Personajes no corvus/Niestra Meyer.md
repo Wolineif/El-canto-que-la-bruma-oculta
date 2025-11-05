@@ -18,14 +18,14 @@ banner: z_Recursos/banners/pureza_maldita.gif
     Chica pequeña y delgada, de pelo oscuro y ojos azulados, vestida siempre de sirvienta y de buena fé hacia los Corvus, a pesar de no tener sangre de linaje directo con los patrones, tiene resistencia a las maldiciones, lo cual le permite ver y guiar a las Voice en la partida de [[Sesión Z - La niebla detras del cristal]], también es la persona que se ocupa de [[1. La ciudad de Raven/Las zonas malditas/Mansión Corvus/El ala común/La laberíntica biblioteca|La laberíntica biblioteca]].
     
 - Imagen:
-
+	![[Niestra Meyer.png|200]]
   
 
 ## Datos interesantes.
 
 - Preludio.
     
-    Plebella de la cuidad raven, decide probar suerte en la mansión de los Corvus, Alli quedó de sirvienta durante bastante tiempo y como es útil, recibió varias bendiciones de los Corvus con el paso del tiempo.
+    Plebella de la cuidad raven, decide probar suerte en la mansión de los Corvus, Alli quedó de sirvienta durante bastante tiempo y como es útil, recibió varias bendiciones de los Corvus con el paso del tiempo. Actualmente trabaja como bibliotecaria de [[La laberíntica biblioteca]]
     
 - Parentesco.
     

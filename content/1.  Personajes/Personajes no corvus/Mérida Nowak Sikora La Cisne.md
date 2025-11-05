@@ -16,9 +16,10 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Rasgos:
     
-    Una mujer de pelo oscuro y ojos azul vivo (no azul cristal como los corvus)
+    Una mujer de pelo claro y ojos azul vivo (no azul cristal como los corvus)
     
 - Imagen:
+	![[Mérida Nowak.png|200]]
 
   
 
