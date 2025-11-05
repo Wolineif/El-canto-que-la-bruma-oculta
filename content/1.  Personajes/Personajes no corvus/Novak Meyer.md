@@ -19,6 +19,8 @@ banner: z_Recursos/banners/pureza_maldita.gif
     Chico alto y delgado, de pelo oscuro y ojos azulados, vestido siempre de sirviente y de buena fé hacia los Corvus.
     
 - Imagen:
+	![[Novak Meyer.png|200]]
+
 
   
 
@@ -26,11 +28,11 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Plebello de la cuidad raven, decide probar suerte en la mansión de los Corvus, Alli quedó de sirvienta durante bastante tiempo y como es útil, recibió varias bendiciones de los Corvus con el paso del tiempo.
+    Plebello de la cuidad raven, decide probar suerte en la mansión de los Corvus, Alli quedó de sirvienta durante bastante tiempo y como es útil, recibió varias bendiciones de los Corvus con el paso del tiempo. Actualmente como jardinero.
     
 - Parentesco.
     
-    Hermano de [[]]
+    Hermano de [[Niestra Meyer]]
     
 - Objetos.
     

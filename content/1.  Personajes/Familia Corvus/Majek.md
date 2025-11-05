@@ -14,33 +14,29 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Edad aparente:
     
-    8
+    70
     
 - Rasgos:
     
-    Chiquillo pequeño de ojos azul hielo.
+    Anciano druida, siempre va con bastón
     
 - Imagen:
-
+	![[Majek.png|200]]
   
 
 ## Datos interesantes.
 
 - Preludio.
     
-    Temeroso y bastante asustadizo, lo cual, le impide usar su poder incluso en situaciones extremas, por ello sus padres están frustrados con él, al contrario que sus hermanos, Robin es el único que no ha despertado como Corvus, él prefiere siempre el uso de armas y defensa física, por ello, con la esperanza de que así obtenga el valor para usar sus poderes, lo entrenan como un combatiente y espadachín para que obtenga la confianza para poder usar sus poderes.
+    Sabio y el más mayor de los patrones, es el patrón del conocimiento y la investigación sobre lo sobrenatural, sobre todo de almas o daemoni, si se necesitara conocimiento podría recurse a él, pero todo tiene un precio...
     
 - Parentesco.
     
-    Padre [[Sebastian Corvus Corvus]]
-    
-    Madre [[Hestia Corvus Corvus]]
-    
-    Hermanos [[Sophie Corvus Corvus]], [[Yestra Corvus Corvus]] y [[Caelum Alexander Corvus]]
+    Hermano de [[Akeldamá]] y [[Yamiel]]
     
 - Objetos.
     
-    Siempre lleva consigo una daga para sentirse seguro.
+    bastón
     
 - Tramas Personales.
 - Otros datos.

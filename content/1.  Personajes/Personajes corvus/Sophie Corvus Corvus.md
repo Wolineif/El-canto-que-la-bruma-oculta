@@ -5,7 +5,7 @@ Relación con:
   - "[[Emily Thomson]]"
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
-  - "[[Antoniette Williams Blanc “Vigilante”]]"
+  - "[[Antoniette Williams Blanc Vigilante]]"
   - "[[Hestia Corvus Corvus]]"
   - "[[Sebastian Corvus Corvus]]"
   - "[[Yamiel]]"
@@ -19,10 +19,11 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 ---
 
 - Edad aparente:
-	8
+	13
 - Rasgos:
-	Chiquilla de pelo negro azabache, ojos azul hielo, afable y con la capacidad de hablar con los espiritus desde muy pequeña.
+	Chiquilla de pelo negro azabache, ojos azul hielo, afable y con la capacidad de hablar con los espíritus desde muy pequeña.
 - Imagen:
+	![[Sophie Corvus Corvus.png|200]]
 
   
 
@@ -39,10 +40,9 @@ banner: z_Recursos/banners/cuervos_azechando.gif
     
     Hermanos [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]] y [[Caelum Alexander Corvus]]
 - Objetos.
-
+	
 - Tramas Personales.
     
       
     
-
 - Otros datos.

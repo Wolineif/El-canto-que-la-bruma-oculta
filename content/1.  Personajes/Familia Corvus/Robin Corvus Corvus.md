@@ -13,13 +13,14 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Edad aparente:
     
-    8
+    23
     
 - Rasgos:
     
     Chiquillo pequeño de ojos azul hielo.
     
 - Imagen:
+	![[Robin Corvus Corvus.png|200]]
 
   
 

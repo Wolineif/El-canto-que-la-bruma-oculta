@@ -1,5 +1,5 @@
 ---
-title: El Canto que la Bruma Oculta
+banner: z_Recursos/banners/mansion_raven.gif
 ---
 
 # Bienvenidos

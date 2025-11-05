@@ -8,19 +8,21 @@ Relación con PC:
 tipo de relación:
   - Familia
   - "[[Familia Corvus]]"
+  - Amor maldito
 banner: z_Recursos/banners/pureza_maldita.gif
 ---
 # Descripción física.
 
 - Edad aparente:
     
-    25
+    20
     
 - Rasgos:
     
-    Mujer joven de pelo oscuro y ojos azules
+    Joven de rasgos corvidos.
     
 - Imagen:
+	![[Yamiel.png|200]]
 
   
 
@@ -28,20 +30,20 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Investigadora obsesionada que habla con los espiritus y busca mantener el linaje
+    Espiritu nacido de la energía de la maldición de [[Familia Corvus]], fue adoptado por sus mayores como nuevo patrón.
     
 - Parentesco.
     
-    Madre de [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]], [[Sophie Corvus Corvus]] y [[Caelum Alexander Corvus]]
+    Hermano de [[Majek]] y [[Akeldamá]]
     
 - Objetos.
     
-    Herramientas de invetigadora, pluma y papel
+    
     
 - Tramas Personales.
     
-    El linaje debe perdurar
+    Debo ayudar como mis hermanos y a la esperanza
     
 - Otros datos.
     
-    Siempre impecable y dulce cara el público aún que su ira es temida por todos los hermanos, más que la de vuestro padre, que es bastante.
+    Siempre que [[Sophie Corvus Corvus]] lo llame acudirá (a menos que no pueda...).
