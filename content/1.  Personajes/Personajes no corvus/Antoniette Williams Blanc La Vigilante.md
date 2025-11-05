@@ -20,7 +20,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
     Mujer gruesa de huesos anchos, especialmente atractiva.
     
 - Imagen:
-	![[Antoniette Williams.png|200]]
+	![[Antoniette-Williams.png|200]]
 
   
 
