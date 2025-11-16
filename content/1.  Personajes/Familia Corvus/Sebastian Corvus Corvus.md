@@ -1,14 +1,14 @@
 ---
 Facción:
   - La logia
-Relación con PC:
+Relación:
   - "[[Yestra Corvus Corvus]]"
   - "[[Arthur Corvus Corvus]]"
   - "[[Sophie Corvus Corvus]]"
-tipo de relación:
-  - Familia
+Tipo:
   - "[[Familia Corvus]]"
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: "[[Familia Corvus]]"
 ---
 # Descripción física.
 
@@ -29,7 +29,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    El actual lord Corvus y repesentante de la familia en la orden, viendo lo capaz que es su hijo, se ocupa de que aprenda todo lo necesario para que pueda cargar con la responsabilidad de la [[Mansión Corvus]]
+    El actual lord Corvus y repesentante de la familia en la orden, viendo lo capaz que es su hijo, [[Caelum Alexander Corvus]], se ocupa de que aprenda todo lo necesario para que pueda cargar con la responsabilidad de la [[Mansión Corvus]]
     
 - Parentesco.
     

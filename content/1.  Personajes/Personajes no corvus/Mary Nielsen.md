@@ -1,9 +1,13 @@
 ---
 Facción:
   - Sirvientes corvus
-tipo de relación:
+Relación:
+  - "[[Hestia Corvus Corvus]]"
+  - "[[Sebastian Corvus Corvus]]"
+Tipo:
   - Ayudantes de cámara
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Sirviente Corvus
 ---
 # Descripción física.
 

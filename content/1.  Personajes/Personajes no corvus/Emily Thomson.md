@@ -1,11 +1,12 @@
 ---
 Facción:
   - Sirvientes corvus
-Relación con PC:
+Relación:
   - "[[Sophie Corvus Corvus]]"
-tipo de relación:
+Tipo:
   - Ayudantes de cámara
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Sirviente Corvus
 ---
 # Descripción física.
 
@@ -45,5 +46,5 @@ banner: z_Recursos/banners/pureza_maldita.gif
     
 - Otros datos.
 	
-	Además de su dificultad para la luz y tener una vista bastante sensible a la luz también confunde colores (Dicromatismo tipo Protanopia) no reconoce el rojo, pudiendo verse a veces como Beis o Gris, a veces con todo verdosos o incluso amarillo si el color es muy intenso, para ella el "rojo" y el "verde" son le mismo color.
+	Además de su dificultad para la luz y tener una vista bastante sensible a la luz también confunde colores (Dicromatismo tipo Protanopia) no reconoce el rojo, pudiendo verse a veces como Beis o Gris, a veces con tonos verdosos o incluso amarillo si el color es muy intenso, para ella el "rojo" y el "verde" son le mismo color.
 	

@@ -1,12 +1,13 @@
 ---
 Facción:
   - La orden
-Relación con PC:
+Relación:
   - "[[Arthur Corvus Corvus]]"
   - "[[Yestra Corvus Corvus]]"
-tipo de relación:
+Tipo:
   - Amor maldito
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Miembro de la Orden
 ---
 # Descripción física.
 

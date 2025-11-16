@@ -1,13 +1,15 @@
 ---
 Facción:
   - La logia
-Relación con PC:
+Relación:
   - "[[Yestra Corvus Corvus]]"
   - "[[Sophie Corvus Corvus]]"
   - "[[Arthur Corvus Corvus]]"
-tipo de relación:
-  - Familia
+Tipo:
+  - "[[Familia Corvus]]"
+  - Demente culpable
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: "[[Familia Corvus]]"
 ---
 # Descripción física.
 
@@ -27,11 +29,13 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
     
-    Demente culpable que habla con los espíritus y busca mantener el linaje
+    Demente culpable que habla con los espíritus y busca mantener el linaje, siempre piensa que todo lo que muere en su alrededor es su culpa, incluso cuando no realizó ningún movimiento para que ello pasara, cree que su magia es la que está detrás de que nadie de la [[Familia Corvus]] recuerde a sus padres o familiares tras su desaparición.
     
 - Parentesco.
     
-    Madre de [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]], [[Sophie Corvus Corvus]] y [[Caelum Alexander Corvus]]
+    Madre de [[Robin Corvus Corvus]], [[Yestra Corvus Corvus]], [[Sophie Corvus Corvus]] y [[Caelum Alexander Corvus]].
+	
+	Esposa de [[Sebastian Corvus Corvus]].
     
 - Objetos.
     

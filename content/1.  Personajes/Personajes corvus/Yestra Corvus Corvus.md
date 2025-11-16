@@ -1,7 +1,6 @@
 ---
 Arquetipo: Sin alma
-Last edited time: 2025-10-12T23:11
-Relación con:
+Relación:
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
   - "[[Antoniette Williams Blanc La Vigilante]]"
@@ -13,6 +12,10 @@ Relación con:
   - "[[Familia Corvus]]"
   - "[[Personajes corvus]]"
 banner: z_Recursos/banners/cuervos_azechando.gif
+Tipo:
+  - "[[Familia Corvus]]"
+  - "[[Personajes corvus]]"
+Rol: "[[Personajes corvus]]"
 ---
 # Descripción física.
 
@@ -20,7 +23,7 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 
 - Edad aparente:
 	
-	5
+	16 (5 en la primera parte del rol)
 	
 - Rasgos:
 	
@@ -35,9 +38,10 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 ---
 
 - Preludio.
-	Como el más pequeño de los hermanos tiene bastante cancha ancha para hacer lo que quiera, obsesionado con los juguetes, consiguío hacer mágia con ellos y empezar a despertar sus dones como Corvus.
+	
+	Como el más pequeño de los hermanos tiene bastante cancha ancha para hacer lo que quiera, obsesionado con los juguetes, consiguió hacer magia con ellos y empezar a despertar sus dones como Corvus.
+	
 - Parentela.
-
     Padre [[Sebastian Corvus Corvus]]
     
     Madre [[Hestia Corvus Corvus]]

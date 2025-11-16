@@ -1,11 +1,12 @@
 ---
 Facción:
   - La logia
-Relación con PC:
+Relación:
   - "[[Arthur Corvus Corvus]]"
-tipo de relación:
+Tipo:
   - Ayudantes de cámara
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Sirviente Corvus
 ---
 # Descripción física.
 

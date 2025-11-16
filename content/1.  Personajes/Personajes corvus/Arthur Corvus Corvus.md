@@ -1,7 +1,6 @@
 ---
 Arquetipo: Mesmerista imortal
-Last edited time: 2025-10-12T23:11
-Relación con:
+Relación:
   - "[[Amelín Gerserver]]"
   - "[[Caelum Alexander Corvus]]"
   - "[[Robin Corvus Corvus]]"
@@ -13,6 +12,10 @@ Relación con:
   - "[[Familia Corvus]]"
   - "[[Personajes corvus]]"
 banner: z_Recursos/banners/cuervos_azechando.gif
+Tipo:
+  - "[[Familia Corvus]]"
+  - "[[Personajes corvus]]"
+Rol: "[[Personajes corvus]]"
 ---
 # Descripción física.
 
@@ -31,6 +34,9 @@ banner: z_Recursos/banners/cuervos_azechando.gif
 ---
 
 - Preludio.
+- 
+	Mesmerista inmortal que a penas sale de la [[Mansión Corvus]], es muy dedicado con sus investigaciones y por lo tanto, siempre suele tomarse el tiempo necesario para sus diagnosticos en la vida y sus investigaciones sobre la muerte, normalmente en cuanto a tema de la política y la Orden, suele pasar bastante, por ello, es quien se suele quedar con los niños cuando es necesario que la [[Familia Corvus]] esté presente.
+	
 - Parentesco.
 	
 	Hermano de [[Sebastian Corvus Corvus]]

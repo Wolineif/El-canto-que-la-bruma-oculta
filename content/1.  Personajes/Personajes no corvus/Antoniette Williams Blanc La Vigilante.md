@@ -1,13 +1,14 @@
 ---
 Facción:
   - La orden
-Relación con PC:
+Relación:
   - "[[Arthur Corvus Corvus]]"
   - "[[Sophie Corvus Corvus]]"
   - "[[Yestra Corvus Corvus]]"
-tipo de relación:
+Tipo:
   - Líder de facción
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Miembro de la Orden
 ---
 # Descripción física.
 
@@ -20,7 +21,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
     Mujer gruesa de huesos anchos, especialmente atractiva.
     
 - Imagen:
-	![[Antoniette-Williams.png|200]]
+	![[Antoniette Williams.png|200]]
 
   
 

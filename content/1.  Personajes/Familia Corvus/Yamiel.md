@@ -1,15 +1,15 @@
 ---
 Facción:
   - La logia
-Relación con PC:
+Relación:
   - "[[Yestra Corvus Corvus]]"
   - "[[Sophie Corvus Corvus]]"
   - "[[Arthur Corvus Corvus]]"
-tipo de relación:
-  - Familia
+Tipo:
   - "[[Familia Corvus]]"
   - Amor maldito
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Patrón
 ---
 # Descripción física.
 

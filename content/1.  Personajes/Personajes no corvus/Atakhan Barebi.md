@@ -1,11 +1,12 @@
 ---
 Facción:
   - Sirvientes corvus
-Relación con PC:
+Relación:
   - "[[Yestra Corvus Corvus]]"
-tipo de relación:
+Tipo:
   - Ayudantes de cámara
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: Sirviente Corvus
 ---
 # Descripción física.
 
@@ -24,7 +25,7 @@ banner: z_Recursos/banners/pureza_maldita.gif
 
 - Preludio.
 	
-	Sirviente de [[Yestra Raven.png]]
+	Sirviente de [[Yestra Corvus Corvus]]
 	
 - Parentesco.
 	

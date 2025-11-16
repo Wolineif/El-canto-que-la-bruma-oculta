@@ -1,20 +1,21 @@
 ---
 Facción:
   - La logia
-Relación con PC:
+Relación:
   - "[[Arthur Corvus Corvus]]"
   - "[[Sophie Corvus Corvus]]"
   - "[[Yestra Corvus Corvus]]"
-tipo de relación:
-  - Familia
+Tipo:
   - "[[Familia Corvus]]"
+  - Poeta maldito
 banner: z_Recursos/banners/pureza_maldita.gif
+Rol: "[[Familia Corvus]]"
 ---
 # Descripción física.
 
 - Edad aparente:
     
-    27
+    27 (13 en la primera parte del rol)
     
 - Rasgos:
     
