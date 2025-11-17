@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "El canto que la bruma oculta",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
