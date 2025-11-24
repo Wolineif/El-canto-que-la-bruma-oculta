@@ -46,7 +46,8 @@ Rol: "[[Personajes corvus]]"
 
 - Tramas Personales.
     
-      
+    Los Corvus han desaparecido.
+    El hermoso angel de la orden.
     
 
 - Otros datos.

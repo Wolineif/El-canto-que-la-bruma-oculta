@@ -46,6 +46,7 @@ Rol: "[[Personajes corvus]]"
 	
 - Tramas Personales.
     
-      
+    Los Corvus han desaparecido. La brújula sin norte, el cuchillo de obsidiana, la guía de letras doradas  y el reloj del otro lado.
+	La ánima de los poemas sobre la niebla. (misterio de [[Caelum Alexander Corvus]]).
     
 - Otros datos.

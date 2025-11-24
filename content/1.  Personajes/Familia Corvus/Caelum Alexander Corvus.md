@@ -42,6 +42,6 @@ Rol: "[[Familia Corvus]]"
     
 - Tramas Personales.
     
-    La ánima de mis historias sobre la niebla.
+    La ánima de mis poemas sobre la niebla.
     
 - Otros datos.

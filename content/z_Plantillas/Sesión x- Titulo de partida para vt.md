@@ -18,7 +18,7 @@
 
 # PNC que aparecerán seguro:
 
-Si ya descritos con anterioridad copiar la entrada de [[Relaciones]]
+Si ya descritos mencionar
 
 ## 1.
 
