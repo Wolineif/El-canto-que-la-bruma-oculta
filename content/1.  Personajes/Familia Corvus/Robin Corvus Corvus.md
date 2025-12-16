@@ -29,7 +29,7 @@ Rol: "[[Familia Corvus]]"
 
 - Preludio.
     
-    Temeroso y bastante asustadizo, lo cual, le impide usar su poder incluso en situaciones extremas, por ello sus padres están frustrados con él, al contrario que sus hermanos, Robin es el único que no ha despertado como Corvus, él prefiere siempre el uso de armas y defensa física, por ello, con la esperanza de que así obtenga el valor para usar sus poderes, lo entrenan como un combatiente y espadachín para que obtenga la confianza para poder usar sus poderes.
+    Temeroso y bastante asustadizo, lo cual, le impide usar su poder incluso en situaciones extremas, por ello sus padres están frustrados con él, al contrario que sus hermanos, Robin es el único que no ha despertado como Corvus, él prefiere siempre el uso de armas y defensa física, por ello, con la esperanza de que así obtenga el valor para usar sus poderes, lo entrenan como un combatiente y espadachín para que obtenga la confianza para poder usar sus poderes. Ahora se enpieza a mostrar su maldición y su miedo a usar sus poderes.
     
 - Parentesco.
     
