@@ -124,7 +124,7 @@ logia:
 
 ---
 
-## [[Arthur Corvus Corvus]]
+## [[Nocten Corvus]]
 
 ### Objetivos de esta partida:
 
