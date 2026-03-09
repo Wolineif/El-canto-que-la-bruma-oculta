@@ -27,7 +27,7 @@ texto ^vFsD7s3u
 texto ^AD6T9kh8
 
 ## Embedded Files
-29b90473ec4af29eb82a5e5dcba53d2a0342357e: [[mesmerista inmortal-4.png]]
+29b90473ec4af29eb82a5e5dcba53d2a0342357e: [[z_Recursos/Arquetipos/mesmerista inmortal/mesmerista inmortal-4.png]]
 
 %%
 ## Drawing

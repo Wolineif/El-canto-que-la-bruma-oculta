@@ -53,7 +53,7 @@ texto ^67Wp12e4
 texto ^eeYpphpq
 
 ## Embedded Files
-4e778655182b2cd0bb167457df985f9a016792ae: [[mesmerista inmortal-2.png]]
+4e778655182b2cd0bb167457df985f9a016792ae: [[z_Recursos/Arquetipos/mesmerista inmortal/mesmerista inmortal-2.png]]
 
 %%
 ## Drawing

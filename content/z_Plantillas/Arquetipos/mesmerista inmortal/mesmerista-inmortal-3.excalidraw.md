@@ -97,7 +97,7 @@ texto ^TCCqwby7
 texto ^YGis8mv0
 
 ## Embedded Files
-e90eea29cbe8340730bff093592fd6b9d280e5b9: [[mesmerista inmortal-3.png]]
+e90eea29cbe8340730bff093592fd6b9d280e5b9: [[z_Recursos/Arquetipos/mesmerista inmortal/mesmerista inmortal-3.png]]
 
 %%
 ## Drawing

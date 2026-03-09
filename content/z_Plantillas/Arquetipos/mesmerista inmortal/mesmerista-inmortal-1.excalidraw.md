@@ -31,7 +31,7 @@ N ^06ziixZI
 N ^50mQSq9M
 
 ## Embedded Files
-5e16af066a19320440f6ead75850465cabb82a1a: [[mesmerista inmortal-1.png]]
+5e16af066a19320440f6ead75850465cabb82a1a: [[z_Recursos/Arquetipos/mesmerista inmortal/mesmerista inmortal-1.png]]
 
 %%
 ## Drawing
